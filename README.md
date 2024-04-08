@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elenaajayi.
 - 👀 I’m interested in Computer Vision and User Interfaces, Systems Neuroscience, and Clinical Research.
 - 🌱 I’m learning Swift, R, and Machine Learning Algorithms in Python.
-- 💞️ I’m looking to collaborate on machine-learning projects in systems neuroscience, graphic design, and user interfaces, and in the field of clinical research.
+- 💞️ I’m looking to collaborate on machine-learning projects in systems neuroscience, graphic design, user interfaces, and oncology in clinical research.
 - 📫 How to reach me via email at elenaajayi@outlook.com
 - 😄 Pronouns: she/her/hers.
 - ⚡ Fun fact: I love dancing and can converse in French!
