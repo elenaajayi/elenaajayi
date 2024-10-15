@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elenaajayi.
+- 👋 Hi, I’m Elena :) 
 - 👀 I’m interested in Tech Policy, Law, Business problems, Game Development, Design, Computer Vision and User Interfaces, Systems Neuroscience, and Research.
 - 🌱 I’m improving my skills in Swift, R, and Machine Learning Algorithms in Python.
 - 💞️ I’m looking to collaborate on machine-learning projects in tech policy, graphic design, user interfaces, and clinical research (think computational neuro & behavioral psych!).
