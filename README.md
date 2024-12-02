@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elena :) 
-- 👀 I’m interested in Tech Policy, Law, Business problems, Game Development, Design, Computer Vision and User Interfaces, Systems Neuroscience, and Research.
+- 👀 I’m interested in HCI, Policy, Law, Game Development, Design, Computer Vision and User Interfaces, Systems Neuroscience, and Research.
 - 🌱 I’m improving my skills in Machine Learning Algorithms in Python.
 - 💞️ I want to collaborate on machine-learning projects in HCI tech policy, graphic design, user interfaces, and clinical research (think computational neuro, behavioral psych, and human-centered ML).
 - 📫 You are welcome to email me at elenaajayi@outlook.com
