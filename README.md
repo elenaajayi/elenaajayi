@@ -4,8 +4,6 @@ I'm a research engineer working on evals, interpretability, and alignment for la
 
 Right now I'm building a diagnostic framework called [trajectory-probe](https://github.com/elenaajayi/trajectory-probe) for measuring how agents recover from corrupted tool outputs. I'm also investigating whether LLM preferences are stable and transitive, building the backend SDK for the [Value Context Protocol](https://github.com/Creed-Space/VCP-SDK), and constructing model organisms for conditional misalignment.
 
-Previously, I did research at Columbia University under the Sustaining Peace Project and at Weill Cornell Medicine's Feil Family Brain & Mind Institute. I presented work at VSS 2023 and LANS 2022. I have a BS in Biomedical Sciences and an MS in Data Science from St. John's University.
-
 ### Some of my my intellectually stimulating technical projects I have done, aside from the ones I am working on currently, are below.
 
 - [trajectory-probe](https://github.com/elenaajayi/trajectory-probe) - I built a diagnostic framework for measuring how agents recover from corrupted tool outputs
