@@ -6,8 +6,6 @@ Right now I'm building a diagnostic framework called [trajectory-probe](https://
 
 ### Some of my my intellectually stimulating technical projects I have done, aside from the ones I am working on currently, are below.
 
-- [trajectory-probe](https://github.com/elenaajayi/trajectory-probe) - I built a diagnostic framework for measuring how agents recover from corrupted tool outputs
-- [VCP-SDK](https://github.com/Creed-Space/VCP-SDK) - I'm building the backend SDK for the Value Context Protocol at AI Safety Camp
 - [self-correction-cot](https://github.com/elenaajayi/self-correction-cot) - I probed trajectory robustness under chain-of-thought perturbation
 - [mess3-belief-geometry](https://github.com/elenaajayi/mess3-belief-geometry) - I studied the geometric structure of belief states in transformers
 - [medical-safety-steering](https://github.com/elenaajayi/medical-safety-steering) - I used activation steering on Qwen 2.5 for medical AI safety alignment
