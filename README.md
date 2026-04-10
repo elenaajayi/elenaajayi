@@ -16,4 +16,4 @@ Previously, I did research at Columbia University under the Sustaining Peace Pro
 - [femmestral](https://github.com/elenaajayi/femmestral) - I fine-tuned Mistral 7B to combat women's health misinformation
 - [learning-addition-transformer](https://github.com/elenaajayi/learning-addition-transformer) - I trained a small transformer to learn integer addition from scratch
 
-[Website](https://elenaajayi.github.io) | [Google Scholar](https://scholar.google.com/citations?user=TtsJ830AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/elenaajayi) | [Twitter](https://twitter.com/elenaajayi)
+[Website](https://elenaajayi.github.io) | [Google Scholar](https://scholar.google.com/citations?user=TtsJ830AAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/elenaajayi) | [Twitter](https://x.com/elenaajayi))
