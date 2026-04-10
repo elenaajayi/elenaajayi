@@ -6,7 +6,7 @@ Right now I'm building a diagnostic framework called [trajectory-probe](https://
 
 Previously, I did research at Columbia University under the Sustaining Peace Project and at Weill Cornell Medicine's Feil Family Brain & Mind Institute. I presented work at VSS 2023 and LANS 2022. I have a BS in Biomedical Sciences and an MS in Data Science from St. John's University.
 
-### Some of my my intellectually stimulating technical projects I have done asides from the ones I am working on currently are below
+### Some of my my intellectually stimulating technical projects I have done, aside from the ones I am working on currently, are below.
 
 - [trajectory-probe](https://github.com/elenaajayi/trajectory-probe) - I built a diagnostic framework for measuring how agents recover from corrupted tool outputs
 - [VCP-SDK](https://github.com/Creed-Space/VCP-SDK) - I'm building the backend SDK for the Value Context Protocol at AI Safety Camp
