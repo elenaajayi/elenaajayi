@@ -1,6 +1,6 @@
 ## Hi, I'm Elena! 🌸
 
-I'm a research engineer working on language-model evaluations, interpretability, and alignment. I build experiments that test what models represent internally, how their behavior changes across contexts, and where current monitoring methods fail.
+I'm a research engineer working on language-model evaluations, post-training, interpretability, and alignment. I build experiments that test what models represent internally, how their behavior changes across contexts, and where current monitoring methods fail.
 
 I'm currently looking for full-time research engineering opportunities.
 
